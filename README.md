@@ -1,1 +1,1 @@
-# charity-app
+# My Charity App
